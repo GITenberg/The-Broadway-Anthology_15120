@@ -1,0 +1,44 @@
+_repo: The-Broadway-Anthology_15120
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kingsley, Walter J.
+    gutenberg_agent_id: '8958'
+    url: http://www.gutenberg.org/2009/agents/8958
+  - agent_name: Hoffenstein, Samuel
+    birthdate: 1889
+    deathdate: 1947
+    gutenberg_agent_id: '8957'
+    url: http://www.gutenberg.org/2009/agents/8957
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Hoffenstein
+  - agent_name: Pemberton, Murdock
+    birthdate: 1888
+    deathdate: 1982
+    gutenberg_agent_id: '8959'
+    url: http://www.gutenberg.org/2009/agents/8959
+  - agent_name: Bernays, Edward L.
+    alias: Freud, Edward L. Bernays
+    birthdate: 1891
+    deathdate: 1995
+    gutenberg_agent_id: '5865'
+    url: http://www.gutenberg.org/2009/agents/5865
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bernays
+description: ''
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15120'
+  lccn: '18001598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+- !lcsh 'American literature -- New York (State) -- New York'
+title: The Broadway Anthology
+url: http://www.gutenberg.org/ebooks/15120
